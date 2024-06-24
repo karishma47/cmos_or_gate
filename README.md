@@ -1,5 +1,5 @@
 # cmos_or_gate
-cadence virtuoso exp by lbrce student </br></br>
+"Cadence Virtuoso project by an LBRCE student." </br>
  or gate using cmos technology in Cadence Virtuoso. The project involved using various Cadence software backend tools with 90nm technology.
 The tools utilized include:
 Virtuoso Schematic Editor and Virtuoso Layout Editor for initial design stages.
